@@ -2999,7 +2999,8 @@ input, select, textarea {
 			border-radius: 0;
 			display: block;
 			position: relative;
-			width: 50em;
+			width: 55em;
+			height: 30em;
 		}
 
 			.spotlights > section > .image img {
